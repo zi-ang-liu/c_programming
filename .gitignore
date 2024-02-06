@@ -1,3 +1,5 @@
-.md
+# ignore markdown files
+*.md
 
+# ignore mac files
 .DS_Store
