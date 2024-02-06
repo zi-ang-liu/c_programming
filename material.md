@@ -1,12 +1,17 @@
 #  プログラミング
 
+## 環境構築
+下記の資料を参照し，初回講義までにプログラミング環境の構築と動作確認を完了しておいてください．
+* [C言語開発環境の構築](./material_guidance/C言語開発環境の構築2023.pdf)
+* [GCCを用いたプログラミング(Windows)](./material_guidance/GCCを用いたプログラミング(Windows)2023.pdf) 
+* [GCCを用いたプログラミング(Mac)](./material_guidance/GCC-mac-2023.pdf)
+
 ## 講義資料
 @import "data/schduling1.csv"
-
 ※毎週水曜日1-2限（8:40～10:30）
 
 ## 講義資料(後半)
-@import "data/schduling2.csv"                                                                                                                                                                
+@import "data/schduling2.csv"                 
 ※毎週水曜日1-2限（8:40～10:30）
 
 
