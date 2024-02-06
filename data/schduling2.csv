@@ -1,10 +1,10 @@
 
 Date,Class Material,Problems,Solutions
-12/6,第8回：関数の基礎[[PDF]](./material/2023プログラミング_08.pdf)[[Code]](source_code.html#8-basics-of-functions),[Problems 8](problems.html#8-basics-of-functions),[Solutions 8](solutions.html#8-basics-of-functions)
-12/13,第9回：関数の応用[[PDF]](./material/2023プログラミング_09.pdf)[[Code]](source_code.html#9-applications-of-functions),[Problems 9](problems.html#9-applications-of-functions),[Solutions 9](solutions.html#9-applications-of-functions)
-12/20,第10回：ポインタの基礎[[PDF]](./material/2023プログラミング_10.pdf)[[Code]](source_code.html#10-basic-of-pointers),[Problems 10](problems.html#10-basic-of-pointers),[Solutions 10](solutions.html#10-basic-of-pointers)
-1/10,第11回：ポインタの応用と構造体[[PDF]](./material/2023プログラミング_11.pdf)[[Code]](source_code.html#11-applications-of-pointers-and-structures),[Problems 11](problems.html#11-applications-of-pointers-and-structures),[Solutions 11](solutions.html#11-applications-of-pointers-and-structures)
+12/6,第8回：関数の基礎[[PDF]](./material/slide_08.pdf)[[Code]](source_code.html#8-basics-of-functions),[Problems 8](problems.html#8-basics-of-functions),[Solutions 8](solutions.html#8-basics-of-functions)
+12/13,第9回：関数の応用[[PDF]](./material/slide_09.pdf)[[Code]](source_code.html#9-applications-of-functions),[Problems 9](problems.html#9-applications-of-functions),[Solutions 9](solutions.html#9-applications-of-functions)
+12/20,第10回：ポインタの基礎[[PDF]](./material/slide_10.pdf)[[Code]](source_code.html#10-basic-of-pointers),[Problems 10](problems.html#10-basic-of-pointers),[Solutions 10](solutions.html#10-basic-of-pointers)
+1/10,第11回：ポインタの応用と構造体[[PDF]](./material/slide_11.pdf)[[Code]](source_code.html#11-applications-of-pointers-and-structures),[Problems 11](problems.html#11-applications-of-pointers-and-structures),[Solutions 11](solutions.html#11-applications-of-pointers-and-structures)
 1/17,第12回：標準ライブラリ関数の基礎[[PDF]](./material/2023_12.pdf),,
 1/24,第13回：標準ライブラリ関数の応用[[PDF]](./material/2023_13.pdf),,
-1/31,第14回：総合演習   [[PDF]](./material/2023_14.pdf)            [[PDF]](./material/2023_14_2.pdf),,
+1/31,第14回：総合演習[[PDF]](./material/2023_14.pdf)[[PDF]](./material/2023_14_2.pdf),,
 2/7,第15回：期末試験,,
