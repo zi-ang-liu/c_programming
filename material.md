@@ -1,4 +1,4 @@
-# 
+#  プログラミング
 
 ## 講義資料
 @import "data/schduling1.csv"
@@ -6,8 +6,7 @@
 ※毎週水曜日1-2限（8:40～10:30）
 
 ## 講義資料(後半)
-@import "data/schduling2.csv"                                                                                                                                                                |                                                                         |                                                                           |
-
+@import "data/schduling2.csv"                                                                                                                                                                
 ※毎週水曜日1-2限（8:40～10:30）
 
 
